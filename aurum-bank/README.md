@@ -1,7 +1,7 @@
 # Aurum Bank — Sistema Bancário
 
 Projeto A3 da disciplina de **Banco de Dados** · SGBD: **PostgreSQL**.
-Professor: _[preencher]_ · Instituição: _[preencher]_ · Semestre: _[preencher]_
+Professores: Dinho e Wilson · Instituição: São Judas Tadeu · Semestre: 4°
 
 O **Aurum Bank** é um banco digital fictício com contas correntes e poupança (inclusive conjuntas), extrato de movimentações, cartão de crédito e empréstimos parcelados.
 
