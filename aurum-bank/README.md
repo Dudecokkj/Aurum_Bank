@@ -7,9 +7,11 @@ O **Aurum Bank** é um banco digital fictício com contas correntes e poupança 
 
 ## Integrantes
 
-- _[Nome do integrante 1]_
-- _[Nome do integrante 2]_
-- _[Nome do integrante 3]_
+Bruno de Oliveira Lemos RA: 312520604
+Eduardo da Silva Jorge RA: 312510768
+Gustavo Souza Silva RA: 312512250
+Marcos Vinicius Sobrinho Silva RA: 312510533
+Wagner Souza dos Santos Júnior RA: 312510823
 
 ## O que o projeto cobre
 
